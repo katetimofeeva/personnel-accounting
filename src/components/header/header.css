@@ -1,0 +1,16 @@
+.header {
+    margin-top: 15px;
+    width: 550px;
+    background-color: rgba(246, 199, 199, 0.803);
+    padding: 15px;
+    box-shadow: 0 0 5px rgba(255, 157, 157, 0.5);
+}
+
+h1, h2 {
+    color: rgb(147, 44, 78);
+    text-shadow: white 0 0 2px;
+}
+
+h2 {
+    font-size: 1.5em;
+}

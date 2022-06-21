@@ -1,0 +1,11 @@
+input {
+    width: 519px;
+    outline:none;
+    border: none;
+}
+
+input::-webkit-input-placeholder { 
+    color: rgb(147, 44, 78);
+    padding-left: 1em;
+    font-size: 1.2em;
+ }

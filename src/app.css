@@ -1,0 +1,13 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main {
+    margin-top: 15px;
+    width: 550px;
+    background-color: rgba(246, 199, 199, 0.803);
+    padding: 15px;
+    box-shadow: 0 0 5px rgba(255, 157, 157, 0.5);
+}

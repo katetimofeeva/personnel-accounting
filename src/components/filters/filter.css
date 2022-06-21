@@ -1,0 +1,14 @@
+li {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+button {
+    border:none;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(255, 157, 157, 0.5);
+    color: rgb(147, 44, 78);
+}
