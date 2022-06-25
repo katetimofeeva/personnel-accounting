@@ -1,0 +1,24 @@
+h2 {
+    padding-top: 20px;
+    padding-left: 20px;
+    margin: 0;
+}
+.addEmployee {
+    margin-top: 15px;
+    width: 550px;
+    background-color: rgba(246, 199, 199, 0.803);
+    box-shadow: 0 0 5px rgba(255, 157, 157, 0.5);
+}
+
+.addEmployee input {
+    width: 250px;
+    margin: 15px 0px 10px 17px;
+    display: inline-block
+}
+
+.addEmployee button {
+    margin-left: 76%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
